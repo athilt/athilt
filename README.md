@@ -1,9 +1,12 @@
-Hi, I’m @athilt
-I’m currently learning React.js user interface. To this end, I made a curriculu-management application. It is still very much
+Hi, I’m @athilt.
+
+I’m currently learning React.js user interface. To this end, I made a curriculum-management application. It is still very much
 in development. It consists of two projects:
 
 **curriculum**, the React GUI
 - bootstrap
+- mostly function components
+- useContext and useState hooks
 
 **boot1**, the Spring boot server
 - maven
